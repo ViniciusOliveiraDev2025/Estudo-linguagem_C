@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 4.1)
+project(Estrutura_Condicional_3 C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(Estrutura_Condicional_3 main.c)
